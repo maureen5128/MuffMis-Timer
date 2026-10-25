@@ -1,5 +1,5 @@
 # MuffMis-Timer
-MuffMis is a cozy, pixel-art Pomodoro timer desktop application designed to make focusing feel a little less lonely. Featuring a retro-inspired interface, a warm virtual bedroom, and adorable pixel dogs, MuffMis turns productivity into a more comforting experience.
+MuffMis is a cozy, pixel-art Pomodoro timer desktop application inspired by my dogs, Muffin and Miso, designed to make focusing feel a little less lonely. Featuring a retro-inspired interface, a warm virtual bedroom, and adorable pixel dogs, MuffMis turns productivity into a more comforting experience.
 
 
 ## ✨ Features
